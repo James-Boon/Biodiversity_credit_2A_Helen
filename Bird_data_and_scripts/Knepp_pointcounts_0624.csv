@@ -1,0 +1,203 @@
+Survey ID,Initials,Date,Time,Site,Survey Point,Temperature (°C),Cloud Cover (%),Wind (Beaufort),Latitude,Longitude,Species,Scientific_Name,Count,Notes
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Blackbird,Turdus_merula,1,
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Blackbird,Turdus_merula,1,
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Blackbird,Turdus_merula,1,
+6,AM,29/06/2024,738,Knepp,34,12,20,bf1,50.9623,-0.3792,Blackbird,Turdus_merula,2,
+7,AM,29/06/2024,816,Knepp,38,13,20,bf2,50.9677,-0.3843,Blackbird,Turdus_merula,1,
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Blackbird,Turdus_merula,2,
+16,AM,30/06/2024,621,Knepp,7,14,80,bf1,50.9759,-0.3625,Blackbird,Turdus_merula,2,Kingfisher flyby 1
+25,AM,30/06/2024,959,Knepp,18,19,100,bf4,50.9637,-0.3609,Blackbird,Turdus_merula,1,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Blackbird,Turdus_merula,1,
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Blackbird,Turdus_merula,1,
+36,AM,01/07/2024,943,Knepp,21,17,90,bf2,50.9779,-0.3836,Blackbird,Turdus_merula,1,Opwall campsite with lots of tents
+3,AM,29/06/2024,631,Knepp,35,12,20,bf0,50.9684,-0.3759,Blackcap,Sylvia_atricapilla,1,
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Blackcap,Sylvia_atricapilla,2,
+7,AM,29/06/2024,816,Knepp,38,13,25,bf2,50.9677,-0.3843,Blackcap,Sylvia_atricapilla,1,
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Blackcap,Sylvia_atricapilla,1,
+14,AM,30/06/2024,548,Knepp,15,14,80,bf1,50.9736,-0.3638,Blackcap,Sylvia_atricapilla,1,Swallows overhead 7
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Blackcap,Sylvia_atricapilla,1,Swallows overhead 4
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Blackcap,Sylvia_atricapilla,1,
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Blackcap,Sylvia_atricapilla,1,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Blackcap,Sylvia_atricapilla,2,
+29,AM,01/07/2024,607,Knepp,30,13,100,bf1,50.9702,-0.3788,Blackcap,Sylvia_atricapilla,1,Many other birds >25m
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Blue tit,Cyanistes_caeruleus,1,
+6,AM,29/06/2024,738,Knepp,34,12,20,bf1,50.9623,-0.3792,Blue tit,Cyanistes_caeruleus,1,
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Blue tit,Cyanistes_caeruleus,1,
+12,AM,29/06/2024,952,Knepp,28,18,10,bf1,50.9702,-0.3912,Blue tit,Cyanistes_caeruleus,2,
+13,AM,29/06/2024,1009,Knepp,26,18,10,bf1,50.9728,-0.3934,Blue tit,Cyanistes_caeruleus,2,Fox
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Blue tit,Cyanistes_caeruleus,3,Swallows overhead 4
+16,AM,30/06/2024,621,Knepp,7,14,80,bf1,50.9759,-0.3625,Blue tit,Cyanistes_caeruleus,1,Kingfisher flyby 1
+18,AM,30/06/2024,702,Knepp,8,16,100,bf1,50.9772,-0.3611,Blue tit,Cyanistes_caeruleus,3,
+21,AM,30/06/2024,812,Knepp,11,17,30,bf1,50.9763,-0.375,Blue tit,Cyanistes_caeruleus,1,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Blue tit,Cyanistes_caeruleus,1,
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Blue tit,Cyanistes_caeruleus,1,
+32,AM,01/07/2024,658,Knepp,3,14,100,bf1,50.9705,-0.3704,Blue tit,Cyanistes_caeruleus,1,
+33,AM,01/07/2024,839,Knepp,27,16,60,bf2,50.9714,-0.3921,Blue tit,Cyanistes_caeruleus,6,
+3,AM,29/06/2024,631,Knepp,35,12,20,bf0,50.9684,-0.3759,Bullfinch,Pyrrhula_pyrrhula,1,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Bullfinch,Pyrrhula_pyrrhula,2,
+14,AM,30/06/2024,548,Knepp,15,14,80,bf1,50.9736,-0.3638,Buzzard,Buteo_buteo,1,Swallows overhead 7
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Chaffinch,Fringilla_coelebs,1,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Chaffinch,Fringilla_coelebs,1,
+1,AM,29/06/2024,548,Knepp,1,11,10,bf0,50.9707,-0.365,Chiffchaff,Phylloscopus_collybita,1,All birds in hedge at edge just within 25m
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Chiffchaff,Phylloscopus_collybita,2,
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Chiffchaff,Phylloscopus_collybita,1,
+6,AM,29/06/2024,738,Knepp,34,12,20,bf1,50.9623,-0.3792,Chiffchaff,Phylloscopus_collybita,4,
+7,AM,29/06/2024,816,Knepp,38,13,25,bf2,50.9677,-0.3843,Chiffchaff,Phylloscopus_collybita,2,
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Chiffchaff,Phylloscopus_collybita,1,
+9,AM,29/06/2024,907,Knepp,32,16,20,bf1,50.9707,-0.3857,Chiffchaff,Phylloscopus_collybita,1,Starlings overhead 9
+13,AM,29/06/2024,1009,Knepp,26,18,10,bf1,50.9728,-0.3934,Chiffchaff,Phylloscopus_collybita,2,Fox
+14,AM,30/06/2024,548,Knepp,15,14,80,bf1,50.9736,-0.3638,Chiffchaff,Phylloscopus_collybita,1,Swallows overhead 7
+16,AM,30/06/2024,621,Knepp,7,14,80,bf1,50.9759,-0.3625,Chiffchaff,Phylloscopus_collybita,1,Kingfisher flyby 1
+17,AM,30/06/2024,638,Knepp,5,15,100,bf1,50.9754,-0.3665,Chiffchaff,Phylloscopus_collybita,1,"Next to (and inc) hammer pond, overhead - cormorant 1, G.Egret 1, Herring gull 5"
+18,AM,30/06/2024,702,Knepp,8,16,100,bf1,50.9772,-0.3611,Chiffchaff,Phylloscopus_collybita,4,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Chiffchaff,Phylloscopus_collybita,3,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Chiffchaff,Phylloscopus_collybita,1,
+21,AM,30/06/2024,812,Knepp,11,17,30,bf1,50.9763,-0.375,Chiffchaff,Phylloscopus_collybita,2,
+22,AM,30/06/2024,831,Knepp,12,17,30,bf2,50.9791,-0.3751,Chiffchaff,Phylloscopus_collybita,1,
+25,AM,30/06/2024,959,Knepp,18,19,100,bf4,50.9637,-0.3609,Chiffchaff,Phylloscopus_collybita,1,
+26,AM,30/06/2024,1019,Knepp,20,19,100,bf4,50.9667,-0.3607,Chiffchaff,Phylloscopus_collybita,1,Red kite overhead 1
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Chiffchaff,Phylloscopus_collybita,1,
+29,AM,01/07/2024,607,Knepp,30,13,100,bf1,50.9702,-0.3788,Chiffchaff,Phylloscopus_collybita,1,Many other birds >25m
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Chiffchaff,Phylloscopus_collybita,1,
+35,AM,01/07/2024,925,Knepp,23,17,70,bf2,50.9764,-0.3833,Chiffchaff,Phylloscopus_collybita,2,
+36,AM,01/07/2024,943,Knepp,21,17,90,bf2,50.9779,-0.3836,Chiffchaff,Phylloscopus_collybita,1,Opwall campsite with lots of tents
+37,AM,01/07/2024,959,Knepp,22,17,95,bf2,50.9778,-0.3805,Chiffchaff,Phylloscopus_collybita,1,Opwall campsite with lots of tents
+38,AM,01/07/2024,1018,Knepp,16,17,95,bf2,50.9785,-0.3904,Chiffchaff,Phylloscopus_collybita,1,Buzzard overhead 1
+13,AM,29/06/2024,1009,Knepp,26,18,10,bf1,50.9728,-0.3934,Coal tit,Periparus_ater,2,Fox
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Collared dove,Streptopelia_decaocto,1,Swallows overhead 4
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Common whitethroat,Sylvia_communis,2,
+9,AM,29/06/2024,907,Knepp,32,16,20,bf1,50.9707,-0.3857,Common whitethroat,Sylvia_communis,2,Starlings overhead 9
+11,AM,29/06/2024,935,Knepp,33,18,10,bf2,50.9713,-0.3884,Common whitethroat,Sylvia_communis,3,
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Common whitethroat,Sylvia_communis,1,
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Common whitethroat,Sylvia_communis,1,
+35,AM,01/07/2024,925,Knepp,23,17,70,bf2,50.9764,-0.3833,Common whitethroat,Sylvia_communis,2,
+37,AM,01/07/2024,959,Knepp,22,17,95,bf2,50.9778,-0.3805,Common whitethroat,Sylvia_communis,2,Opwall campsite with lots of tents
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Coot,Fulica_atra,1,
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Crow,Corvus_corone,1,
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Crow,Corvus_corone,3,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Crow,Corvus_corone,1,
+33,AM,01/07/2024,839,Knepp,27,16,60,bf2,50.9714,-0.3921,Crow,Corvus_corone,2,
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Dunnock,Prunella_modularis,2,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Dunnock,Prunella_modularis,1,
+17,AM,30/06/2024,638,Knepp,5,15,100,bf1,50.9754,-0.3665,Egyptian goose,Alopochen_aegyptiaca,6,"Next to (and inc) hammer pond, overhead - cormorant 1, G.Egret 1, Herring gull 5"
+38,AM,01/07/2024,1018,Knepp,16,17,95,bf2,50.9785,-0.3904,Garden warbler,Sylvia_borin,1,Buzzard overhead 1
+13,AM,29/06/2024,1009,Knepp,26,18,10,bf1,50.9728,-0.3934,Goldcrest,Regulus_regulus,3,Fox
+25,AM,30/06/2024,959,Knepp,18,19,100,bf4,50.9637,-0.3609,Goldcrest,Regulus_regulus,3,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Goldcrest,Regulus_regulus,1,
+1,AM,29/06/2024,548,Knepp,1,11,10,bf0,50.9707,-0.365,Goldfinch,Carduelis_carduelis,2,All birds in hedge at edge just within 25m
+11,AM,29/06/2024,935,Knepp,33,18,10,bf2,50.9713,-0.3884,Goldfinch,Carduelis_carduelis,2,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Goldfinch,Carduelis_carduelis,4,
+24,AM,30/06/2024,941,Knepp,19,19,95,bf4,50.969,-0.358,Goldfinch,Carduelis_carduelis,2,"Lots of birds in hedge >25m, overhead - jackdaws 6, stork 1"
+26,AM,30/06/2024,1019,Knepp,20,19,100,bf4,50.9667,-0.3607,Goldfinch,Carduelis_carduelis,1,Red kite overhead 1
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Goldfinch,Carduelis_carduelis,3,
+35,AM,01/07/2024,925,Knepp,23,17,70,bf2,50.9764,-0.3833,Goldfinch,Carduelis_carduelis,3,
+36,AM,01/07/2024,943,Knepp,21,17,90,bf2,50.9779,-0.3836,Goldfinch,Carduelis_carduelis,8,Opwall campsite with lots of tents
+6,AM,29/06/2024,738,Knepp,34,12,20,bf1,50.9623,-0.3792,Great tit,Parus_major,2,
+14,AM,30/06/2024,548,Knepp,15,14,80,bf1,50.9736,-0.3638,Great tit,Parus_major,1,Swallows overhead 7
+16,AM,30/06/2024,621,Knepp,7,14,80,bf1,50.9759,-0.3625,Great tit,Parus_major,1,Kingfisher flyby 1
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Great tit,Parus_major,2,
+22,AM,30/06/2024,831,Knepp,12,17,30,bf2,50.9791,-0.3751,Great tit,Parus_major,2,
+25,AM,30/06/2024,959,Knepp,18,19,100,bf4,50.9637,-0.3609,Great tit,Parus_major,2,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Great tit,Parus_major,1,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Great tit,Parus_major,2,
+33,AM,01/07/2024,839,Knepp,27,16,60,bf2,50.9714,-0.3921,Great tit,Parus_major,3,
+35,AM,01/07/2024,925,Knepp,23,17,70,bf2,50.9764,-0.3833,Great tit,Parus_major,2,
+37,AM,01/07/2024,959,Knepp,22,17,95,bf2,50.9778,-0.3805,Great tit,Parus_major,1,Opwall campsite with lots of tents
+3,AM,29/06/2024,631,Knepp,35,12,20,bf0,50.9684,-0.3759,Greater spotted woodpecker,Dendrocopos_major,1,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Greater spotted woodpecker,Dendrocopos_major,1,
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Greater spotted woodpecker,Dendrocopos_major,1,
+33,AM,01/07/2024,839,Knepp,27,16,60,bf2,50.9714,-0.3921,Greater spotted woodpecker,Dendrocopos_major,1,
+3,AM,29/06/2024,631,Knepp,35,12,20,bf0,50.9684,-0.3759,Green woodpecker,Picus_viridis,1,
+6,AM,29/06/2024,738,Knepp,34,12,20,bf1,50.9623,-0.3792,Green woodpecker,Picus_viridis,2,
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Green woodpecker,Picus_viridis,2,Swallows overhead 4
+18,AM,30/06/2024,702,Knepp,8,16,100,bf1,50.9772,-0.3611,Green woodpecker,Picus_viridis,1,
+26,AM,30/06/2024,1019,Knepp,20,19,100,bf4,50.9667,-0.3607,Green woodpecker,Picus_viridis,1,Red kite overhead 1
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Green woodpecker,Picus_viridis,1,
+35,AM,01/07/2024,925,Knepp,23,17,70,bf2,50.9764,-0.3833,Green woodpecker,Picus_viridis,1,
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Jackdaw,Corvus_monedula,3,
+7,AM,29/06/2024,816,Knepp,38,13,25,bf2,50.9677,-0.3843,Jackdaw,Corvus_monedula,1,
+22,AM,30/06/2024,831,Knepp,12,17,30,bf2,50.9791,-0.3751,Jackdaw,Corvus_monedula,3,
+23,AM,30/06/2024,923,Knepp,17,19,95,bf4,50.9665,-0.3577,Jackdaw,Corvus_monedula,2,Herring/common gull overhead 1
+29,AM,01/07/2024,607,Knepp,30,13,100,bf1,50.9702,-0.3788,Jackdaw,Corvus_monedula,3,Many other birds >25m
+16,AM,30/06/2024,621,Knepp,7,14,80,bf1,50.9759,-0.3625,Jay,Garrulus_glandarius,1,Kingfisher flyby 1
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Lesser whitethroat,Curruca_curruca,2,
+7,AM,29/06/2024,816,Knepp,38,13,25,bf2,50.9677,-0.3843,Lesser whitethroat,Curruca_curruca,3,
+11,AM,29/06/2024,935,Knepp,33,18,10,bf2,50.9713,-0.3884,Lesser whitethroat,Curruca_curruca,1,
+1,AM,29/06/2024,548,Knepp,1,11,10,bf0,50.9707,-0.365,Linnet,Linaria_cannabina,1,All birds in hedge at edge just within 25m
+9,AM,29/06/2024,907,Knepp,32,16,20,bf1,50.9707,-0.3857,Linnet,Linaria_cannabina,9,Starlings overhead 9
+11,AM,29/06/2024,935,Knepp,33,18,10,bf2,50.9713,-0.3884,Linnet,Linaria_cannabina,2,
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Linnet,Linaria_cannabina,2,Swallows overhead 4
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Linnet,Linaria_cannabina,8,
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Long tailed tit,Aegithalos_caudatus,1,
+13,AM,29/06/2024,1009,Knepp,26,18,10,bf1,50.9728,-0.3934,Magpie,Pica_pica,1,Fox
+14,AM,30/06/2024,548,Knepp,15,14,80,bf1,50.9736,-0.3638,Magpie,Pica_pica,2,Swallows overhead 7
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Magpie,Pica_pica,1,
+21,AM,30/06/2024,812,Knepp,11,17,30,bf1,50.9763,-0.375,Magpie,Pica_pica,1,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Magpie,Pica_pica,1,
+32,AM,01/07/2024,658,Knepp,3,14,100,bf1,50.9705,-0.3704,Magpie,Pica_pica,1,
+36,AM,01/07/2024,943,Knepp,21,17,90,bf2,50.9779,-0.3836,Magpie,Pica_pica,2,Opwall campsite with lots of tents
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Mallard,Anas_platyrhynchos,1,
+17,AM,30/06/2024,638,Knepp,5,15,100,bf1,50.9754,-0.3665,Mallard,Anas_platyrhynchos,3,"Next to (and inc) hammer pond, overhead - cormorant 1, G.Egret 1, Herring gull 5"
+17,AM,30/06/2024,638,Knepp,5,15,100,bf1,50.9754,-0.3665,Mute swan,Cygnus_olor,2,"Next to (and inc) hammer pond, overhead - cormorant 1, G.Egret 1, Herring gull 5"
+10,AM,29/06/2024,919,Knepp,29,17,20,bf2,50.9699,-0.3883,NA,NA,,"Buzzard overhead 1, quite a few birds in bushes but >25m"
+34,AM,01/07/2024,904,Knepp,25,17,70,bf2,50.9744,-0.3864,NA,NA,,Several birds heard but >25m
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Nuthatch,Sitta_europaea,1,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Nuthatch,Sitta_europaea,1,
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Robin,Erithacus_rubecula,1,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Robin,Erithacus_rubecula,2,
+25,AM,30/06/2024,959,Knepp,18,19,100,bf4,50.9637,-0.3609,Robin,Erithacus_rubecula,2,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Robin,Erithacus_rubecula,1,
+33,AM,01/07/2024,839,Knepp,27,16,60,bf2,50.9714,-0.3921,Robin,Erithacus_rubecula,1,
+36,AM,01/07/2024,943,Knepp,21,17,90,bf2,50.9779,-0.3836,Robin,Erithacus_rubecula,1,Opwall campsite with lots of tents
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Song thrush,Turdus_philomelos,2,
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Song thrush,Turdus_philomelos,1,
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Song thrush,Turdus_philomelos,2,
+7,AM,29/06/2024,816,Knepp,38,13,20,bf2,50.9677,-0.3843,Song thrush,Turdus_philomelos,1,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Song thrush,Turdus_philomelos,1,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Song thrush,Turdus_philomelos,1,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Song thrush,Turdus_philomelos,2,
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Starling,Sturnus_vulgaris,2,Swallows overhead 4
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Stock dove,Columba_oenas,1,
+3,AM,29/06/2024,631,Knepp,35,12,20,bf0,50.9684,-0.3759,Stock dove,Columba_oenas,1,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Stock dove,Columba_oenas,1,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Stock dove,Columba_oenas,1,
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Stock dove,Columba_oenas,1,
+32,AM,01/07/2024,658,Knepp,3,14,100,bf1,50.9705,-0.3704,Stock dove,Columba_oenas,1,
+6,AM,29/06/2024,738,Knepp,34,12,20,bf1,50.9623,-0.3792,Treecreeper,Certhia_familiaris,2,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Treecreeper,Certhia_familiaris,1,
+5,AM,29/06/2024,714,Knepp,37,12,20,bf1,50.9632,-0.3737,Turtle dove,Streptopelia_turtur,1,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Turtle dove,Streptopelia_turtur,1,
+32,AM,01/07/2024,658,Knepp,3,14,100,bf1,50.9705,-0.3704,White stork,Ciconia_ciconia,4,
+3,AM,29/06/2024,631,Knepp,35,12,20,bf0,50.9684,-0.3759,Wood pigeon,Columba_palumbus,1,
+4,AM,29/06/2024,655,Knepp,36,12,20,bf0,50.9652,-0.3726,Wood pigeon,Columba_palumbus,1,
+9,AM,29/06/2024,907,Knepp,32,16,20,bf1,50.9707,-0.3857,Wood pigeon,Columba_palumbus,1,Starlings overhead 9
+14,AM,30/06/2024,548,Knepp,15,14,80,bf1,50.9736,-0.3638,Wood pigeon,Columba_palumbus,1,Swallows overhead 7
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Wood pigeon,Columba_palumbus,1,Swallows overhead 4
+17,AM,30/06/2024,638,Knepp,5,15,100,bf1,50.9754,-0.3665,Wood pigeon,Columba_palumbus,1,"Next to (and inc) hammer pond, overhead - cormorant 1, G.Egret 1, Herring gull 5"
+18,AM,30/06/2024,702,Knepp,8,16,100,bf1,50.9772,-0.3611,Wood pigeon,Columba_palumbus,1,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Wood pigeon,Columba_palumbus,1,
+20,AM,30/06/2024,756,Knepp,10,17,30,bf1,50.9763,-0.3707,Wood pigeon,Columba_palumbus,1,
+21,AM,30/06/2024,812,Knepp,11,17,30,bf1,50.9763,-0.375,Wood pigeon,Columba_palumbus,1,
+22,AM,30/06/2024,831,Knepp,12,17,30,bf2,50.9791,-0.3751,Wood pigeon,Columba_palumbus,2,
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Wood pigeon,Columba_palumbus,1,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Wood pigeon,Columba_palumbus,2,
+38,AM,01/07/2024,1018,Knepp,16,17,95,bf2,50.9785,-0.3904,Wood pigeon,Columba_palumbus,1,Buzzard overhead 1
+1,AM,29/06/2024,548,Knepp,1,11,10,bf0,50.9707,-0.365,Wren,Troglodytes_troglodytes,1,All birds in hedge at edge just within 25m
+2,AM,29/06/2024,610,Knepp,2,11,10,bf0,50.968,-0.3688,Wren,Troglodytes_troglodytes,2,
+7,AM,29/06/2024,816,Knepp,38,13,25,bf2,50.9677,-0.3843,Wren,Troglodytes_troglodytes,3,
+8,AM,29/06/2024,832,Knepp,31,14,25,bf1,50.9704,-0.384,Wren,Troglodytes_troglodytes,3,
+11,AM,29/06/2024,935,Knepp,33,18,10,bf2,50.9713,-0.3884,Wren,Troglodytes_troglodytes,2,
+15,AM,30/06/2024,604,Knepp,6,14,80,bf1,50.975,-0.3646,Wren,Troglodytes_troglodytes,2,Swallows overhead 4
+16,AM,30/06/2024,621,Knepp,7,14,80,bf1,50.9759,-0.3625,Wren,Troglodytes_troglodytes,1,Kingfisher flyby 1
+18,AM,30/06/2024,702,Knepp,8,16,100,bf1,50.9772,-0.3611,Wren,Troglodytes_troglodytes,1,
+19,AM,30/06/2024,730,Knepp,9,16,100,bf1,50.9748,-0.3709,Wren,Troglodytes_troglodytes,2,
+22,AM,30/06/2024,831,Knepp,12,17,30,bf2,50.9791,-0.3751,Wren,Troglodytes_troglodytes,1,
+23,AM,30/06/2024,923,Knepp,17,19,95,bf4,50.9665,-0.3577,Wren,Troglodytes_troglodytes,1,Herring/common gull overhead 1
+25,AM,30/06/2024,959,Knepp,18,19,100,bf4,50.9637,-0.3609,Wren,Troglodytes_troglodytes,2,
+26,AM,30/06/2024,1019,Knepp,20,19,100,bf4,50.9667,-0.3607,Wren,Troglodytes_troglodytes,2,Red kite overhead 1
+27,AM,01/07/2024,529,Knepp,24,13,100,bf1,50.9749,-0.3827,Wren,Troglodytes_troglodytes,1,
+28,AM,01/07/2024,547,Knepp,13,13,100,bf1,50.9743,-0.38,Wren,Troglodytes_troglodytes,1,
+30,AM,01/07/2024,624,Knepp,14,14,100,bf1,50.9714,-0.3754,Wren,Troglodytes_troglodytes,2,
+31,AM,01/07/2024,640,Knepp,4,14,100,bf1,50.9717,-0.3704,Wren,Troglodytes_troglodytes,2,
+32,AM,01/07/2024,658,Knepp,3,14,100,bf1,50.9705,-0.3704,Wren,Troglodytes_troglodytes,1,
+38,AM,01/07/2024,1018,Knepp,16,17,95,bf2,50.9785,-0.3904,Wren,Troglodytes_troglodytes,1,Buzzard overhead 1

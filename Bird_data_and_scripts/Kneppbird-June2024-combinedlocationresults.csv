@@ -1,0 +1,986 @@
+Site,Location_ID,Lat,Long,Habitat,UK Name,Scientific_Name,Month_ID,Month 1 Days Detected (%),Conservation Status (IUCN GB)
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Barn Owl,Tyto_alba,3,33.3,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Barn Owl,Tyto_alba,1,16.7,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Barn Owl,Tyto_alba,4,50,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Barn Owl,Tyto_alba,2,16.7,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Blackbird,Turdus_merula,19,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Blackbird,Turdus_merula,126,100,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Blackbird,Turdus_merula,125,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Blackbird,Turdus_merula,249,100,green
+Knepp,5,50.975371,-0.366484,modified grassland,Blackbird,Turdus_merula,112,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Blackbird,Turdus_merula,76,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Blackbird,Turdus_merula,72,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Blackbird,Turdus_merula,61,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Blackbird,Turdus_merula,29,83.3,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Blackbird,Turdus_merula,38,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Blackbird,Turdus_merula,71,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Blackbird,Turdus_merula,39,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Blackbird,Turdus_merula,39,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Blackbird,Turdus_merula,33,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Blackbird,Turdus_merula,36,83.3,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Blackbird,Turdus_merula,276,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Blackbird,Turdus_merula,34,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Blackbird,Turdus_merula,77,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Blackbird,Turdus_merula,6,33.3,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Blackbird,Turdus_merula,74,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Blackbird,Turdus_merula,100,100,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Blackbird,Turdus_merula,151,100,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Blackbird,Turdus_merula,54,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Blackbird,Turdus_merula,93,100,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Blackbird,Turdus_merula,96,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Blackbird,Turdus_merula,124,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Blackbird,Turdus_merula,152,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Blackbird,Turdus_merula,173,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Blackbird,Turdus_merula,16,100,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Blackbird,Turdus_merula,134,100,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Blackbird,Turdus_merula,18,100,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Blackbird,Turdus_merula,206,100,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Blackbird,Turdus_merula,66,100,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Blackbird,Turdus_merula,243,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Blackbird,Turdus_merula,146,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Blackbird,Turdus_merula,73,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Blackbird,Turdus_merula,111,100,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Blackcap,Sylvia_atricapilla,5,33.3,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Blackcap,Sylvia_atricapilla,187,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Blackcap,Sylvia_atricapilla,15,83.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Blackcap,Sylvia_atricapilla,10,83.3,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Blackcap,Sylvia_atricapilla,4,16.7,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Blackcap,Sylvia_atricapilla,34,83.3,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Blackcap,Sylvia_atricapilla,158,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Blackcap,Sylvia_atricapilla,120,83.3,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Blackcap,Sylvia_atricapilla,4,33.3,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Blackcap,Sylvia_atricapilla,60,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Blackcap,Sylvia_atricapilla,22,83.3,green
+Knepp,29,50.96984,-0.387641,modified grassland,Blackcap,Sylvia_atricapilla,98,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Blackcap,Sylvia_atricapilla,22,100,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Blackcap,Sylvia_atricapilla,230,66.7,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Blackcap,Sylvia_atricapilla,52,50,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Blackcap,Sylvia_atricapilla,19,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Blackcap,Sylvia_atricapilla,39,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Blackcap,Sylvia_atricapilla,12,66.7,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Blackcap,Sylvia_atricapilla,39,100,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Blue Tit,Cyanistes_caeruleus,11,83.3,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Blue Tit,Cyanistes_caeruleus,11,66.7,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Blue Tit,Cyanistes_caeruleus,68,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Blue Tit,Cyanistes_caeruleus,12,83.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Blue Tit,Cyanistes_caeruleus,30,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Blue Tit,Cyanistes_caeruleus,76,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Blue Tit,Cyanistes_caeruleus,13,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Blue Tit,Cyanistes_caeruleus,62,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Blue Tit,Cyanistes_caeruleus,28,83.3,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Blue Tit,Cyanistes_caeruleus,14,66.7,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Blue Tit,Cyanistes_caeruleus,27,83.3,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Blue Tit,Cyanistes_caeruleus,25,83.3,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Blue Tit,Cyanistes_caeruleus,34,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Blue Tit,Cyanistes_caeruleus,36,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Blue Tit,Cyanistes_caeruleus,11,66.7,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Blue Tit,Cyanistes_caeruleus,23,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Blue Tit,Cyanistes_caeruleus,68,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Blue Tit,Cyanistes_caeruleus,19,83.3,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Blue Tit,Cyanistes_caeruleus,12,66.7,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Blue Tit,Cyanistes_caeruleus,9,50,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Blue Tit,Cyanistes_caeruleus,32,66.7,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Blue Tit,Cyanistes_caeruleus,10,66.7,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Blue Tit,Cyanistes_caeruleus,83,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Blue Tit,Cyanistes_caeruleus,131,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Blue Tit,Cyanistes_caeruleus,140,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Blue Tit,Cyanistes_caeruleus,36,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Blue Tit,Cyanistes_caeruleus,7,33.3,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Blue Tit,Cyanistes_caeruleus,107,100,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Blue Tit,Cyanistes_caeruleus,40,100,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Blue Tit,Cyanistes_caeruleus,7,50,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Blue Tit,Cyanistes_caeruleus,49,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Blue Tit,Cyanistes_caeruleus,14,50,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Blue Tit,Cyanistes_caeruleus,14,83.3,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Bullfinch,Pyrrhula_pyrrhula,58,100,amber
+Knepp,2,50.967893,-0.368796,mixed scrub,Bullfinch,Pyrrhula_pyrrhula,90,100,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Bullfinch,Pyrrhula_pyrrhula,8,50,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Bullfinch,Pyrrhula_pyrrhula,26,100,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Bullfinch,Pyrrhula_pyrrhula,15,83.3,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Bullfinch,Pyrrhula_pyrrhula,16,83.3,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Bullfinch,Pyrrhula_pyrrhula,186,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Bullfinch,Pyrrhula_pyrrhula,103,100,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Bullfinch,Pyrrhula_pyrrhula,5,50,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Bullfinch,Pyrrhula_pyrrhula,23,83.3,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Bullfinch,Pyrrhula_pyrrhula,17,50,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Bullfinch,Pyrrhula_pyrrhula,29,66.7,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Bullfinch,Pyrrhula_pyrrhula,59,100,amber
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Bullfinch,Pyrrhula_pyrrhula,12,66.7,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Bullfinch,Pyrrhula_pyrrhula,36,100,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Bullfinch,Pyrrhula_pyrrhula,5,16.7,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Bullfinch,Pyrrhula_pyrrhula,124,100,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Bullfinch,Pyrrhula_pyrrhula,36,100,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Buzzard,Buteo_buteo,13,66.7,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Buzzard,Buteo_buteo,13,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Buzzard,Buteo_buteo,6,66.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Buzzard,Buteo_buteo,36,83.3,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Buzzard,Buteo_buteo,8,83.3,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Buzzard,Buteo_buteo,22,83.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Buzzard,Buteo_buteo,4,50,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Buzzard,Buteo_buteo,14,66.7,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Buzzard,Buteo_buteo,12,83.3,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Buzzard,Buteo_buteo,2,33.3,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Buzzard,Buteo_buteo,11,50,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Buzzard,Buteo_buteo,15,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Buzzard,Buteo_buteo,4,33.3,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Buzzard,Buteo_buteo,3,50,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Buzzard,Buteo_buteo,6,66.7,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Buzzard,Buteo_buteo,3,33.3,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Buzzard,Buteo_buteo,14,66.7,green
+Knepp,27,50.971443,-0.392173,modified grassland,Buzzard,Buteo_buteo,8,66.7,green
+Knepp,28,50.969925,-0.391089,modified grassland,Buzzard,Buteo_buteo,4,33.3,green
+Knepp,29,50.96984,-0.387641,modified grassland,Buzzard,Buteo_buteo,10,83.3,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Buzzard,Buteo_buteo,9,66.7,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Buzzard,Buteo_buteo,27,100,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Buzzard,Buteo_buteo,21,100,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Buzzard,Buteo_buteo,5,33.3,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Buzzard,Buteo_buteo,18,83.3,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Buzzard,Buteo_buteo,22,83.3,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Carrion Crow,Corvus_corone,45,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Carrion Crow,Corvus_corone,7,66.7,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Carrion Crow,Corvus_corone,3,50,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Carrion Crow,Corvus_corone,2,33.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Carrion Crow,Corvus_corone,15,83.3,green
+Knepp,6,50.975175,-0.364672,modified grassland,Carrion Crow,Corvus_corone,58,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Carrion Crow,Corvus_corone,12,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Carrion Crow,Corvus_corone,20,83.3,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Carrion Crow,Corvus_corone,16,66.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Carrion Crow,Corvus_corone,5,50,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Carrion Crow,Corvus_corone,30,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Carrion Crow,Corvus_corone,12,66.7,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Carrion Crow,Corvus_corone,6,50,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Carrion Crow,Corvus_corone,38,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Carrion Crow,Corvus_corone,12,83.3,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Carrion Crow,Corvus_corone,9,83.3,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Carrion Crow,Corvus_corone,54,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Carrion Crow,Corvus_corone,21,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Carrion Crow,Corvus_corone,31,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Carrion Crow,Corvus_corone,10,50,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Carrion Crow,Corvus_corone,3,33.3,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Carrion Crow,Corvus_corone,6,33.3,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Carrion Crow,Corvus_corone,18,83.3,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Carrion Crow,Corvus_corone,10,83.3,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Carrion Crow,Corvus_corone,38,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Carrion Crow,Corvus_corone,61,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Carrion Crow,Corvus_corone,56,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Carrion Crow,Corvus_corone,23,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Carrion Crow,Corvus_corone,6,33.3,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Carrion Crow,Corvus_corone,8,66.7,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Carrion Crow,Corvus_corone,6,66.7,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Carrion Crow,Corvus_corone,17,83.3,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Carrion Crow,Corvus_corone,3,50,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Carrion Crow,Corvus_corone,2,33.3,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Carrion Crow,Corvus_corone,43,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Carrion Crow,Corvus_corone,8,83.3,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Carrion Crow,Corvus_corone,24,100,green
+Knepp,5,50.975371,-0.366484,modified grassland,Chaffinch,Fringilla_coelebs,18,50,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Chaffinch,Fringilla_coelebs,3,33.3,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Chiffchaff,Phylloscopus_collybita,87,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Chiffchaff,Phylloscopus_collybita,1719,100,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Chiffchaff,Phylloscopus_collybita,772,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Chiffchaff,Phylloscopus_collybita,1781,100,green
+Knepp,5,50.975371,-0.366484,modified grassland,Chiffchaff,Phylloscopus_collybita,346,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Chiffchaff,Phylloscopus_collybita,6,66.7,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Chiffchaff,Phylloscopus_collybita,948,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Chiffchaff,Phylloscopus_collybita,2601,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Chiffchaff,Phylloscopus_collybita,2142,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Chiffchaff,Phylloscopus_collybita,2166,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Chiffchaff,Phylloscopus_collybita,289,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Chiffchaff,Phylloscopus_collybita,729,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Chiffchaff,Phylloscopus_collybita,186,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Chiffchaff,Phylloscopus_collybita,101,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Chiffchaff,Phylloscopus_collybita,3709,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Chiffchaff,Phylloscopus_collybita,1277,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Chiffchaff,Phylloscopus_collybita,87,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Chiffchaff,Phylloscopus_collybita,766,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Chiffchaff,Phylloscopus_collybita,457,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Chiffchaff,Phylloscopus_collybita,860,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Chiffchaff,Phylloscopus_collybita,1003,100,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Chiffchaff,Phylloscopus_collybita,1341,100,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Chiffchaff,Phylloscopus_collybita,537,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Chiffchaff,Phylloscopus_collybita,535,100,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Chiffchaff,Phylloscopus_collybita,270,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Chiffchaff,Phylloscopus_collybita,722,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Chiffchaff,Phylloscopus_collybita,103,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Chiffchaff,Phylloscopus_collybita,577,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Chiffchaff,Phylloscopus_collybita,3423,100,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Chiffchaff,Phylloscopus_collybita,148,100,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Chiffchaff,Phylloscopus_collybita,209,100,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Chiffchaff,Phylloscopus_collybita,219,100,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Chiffchaff,Phylloscopus_collybita,3675,100,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Chiffchaff,Phylloscopus_collybita,1148,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Chiffchaff,Phylloscopus_collybita,347,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Chiffchaff,Phylloscopus_collybita,4551,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Chiffchaff,Phylloscopus_collybita,600,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Coal Tit,Periparus_ater,29,83.3,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Coal Tit,Periparus_ater,10,66.7,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Coal Tit,Periparus_ater,31,83.3,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Coal Tit,Periparus_ater,44,83.3,green
+Knepp,27,50.971443,-0.392173,modified grassland,Coal Tit,Periparus_ater,13,50,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Coal Tit,Periparus_ater,11,33.3,green
+Knepp,6,50.975175,-0.364672,modified grassland,Collared Dove,Streptopelia_decaocto,8,66.7,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Collared Dove,Streptopelia_decaocto,96,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Collared Dove,Streptopelia_decaocto,41,66.7,green
+Knepp,5,50.975371,-0.366484,modified grassland,Common Sandpiper,Actitis_hypoleucos,19,16.7,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Coot,Fulica_atra,136,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Coot,Fulica_atra,19,50,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Coot,Fulica_atra,62,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Coot,Fulica_atra,9,50,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Dartford Warbler,Curruca_undata,17,50,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Dunnock,Prunella_modularis,13,66.7,amber
+Knepp,2,50.967893,-0.368796,mixed scrub,Dunnock,Prunella_modularis,60,83.3,amber
+Knepp,3,50.970471,-0.370462,wet woodland ,Dunnock,Prunella_modularis,19,83.3,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Dunnock,Prunella_modularis,133,100,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Dunnock,Prunella_modularis,44,100,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Dunnock,Prunella_modularis,24,83.3,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Dunnock,Prunella_modularis,10,50,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Dunnock,Prunella_modularis,60,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Dunnock,Prunella_modularis,133,100,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Dunnock,Prunella_modularis,11,50,amber
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Dunnock,Prunella_modularis,21,100,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Dunnock,Prunella_modularis,7,66.7,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Dunnock,Prunella_modularis,6,66.7,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Dunnock,Prunella_modularis,19,100,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Dunnock,Prunella_modularis,30,66.7,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Dunnock,Prunella_modularis,38,83.3,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Dunnock,Prunella_modularis,239,100,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Dunnock,Prunella_modularis,72,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Dunnock,Prunella_modularis,12,66.7,amber
+Knepp,22,50.977833,-0.380611,lowland meadows,Dunnock,Prunella_modularis,18,100,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Dunnock,Prunella_modularis,28,100,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Dunnock,Prunella_modularis,14,83.3,amber
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Dunnock,Prunella_modularis,21,83.3,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Dunnock,Prunella_modularis,32,100,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Dunnock,Prunella_modularis,34,100,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Dunnock,Prunella_modularis,85,100,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Dunnock,Prunella_modularis,8,83.3,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Dunnock,Prunella_modularis,74,100,amber
+Knepp,33,50.971291,-0.388367,bramble scrub,Dunnock,Prunella_modularis,131,100,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Dunnock,Prunella_modularis,26,66.7,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Dunnock,Prunella_modularis,30,100,amber
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Dunnock,Prunella_modularis,6,16.7,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Dunnock,Prunella_modularis,134,100,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Dunnock,Prunella_modularis,154,100,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Egyptian Goose,Alopochen_aegyptiaca,144,83.3,introduced
+Knepp,6,50.975175,-0.364672,modified grassland,Egyptian Goose,Alopochen_aegyptiaca,6,16.7,introduced
+Knepp,7,50.976056,-0.362541,wet woodland ,Egyptian Goose,Alopochen_aegyptiaca,20,33.3,introduced
+Knepp,3,50.970471,-0.370462,wet woodland ,Garden Warbler,Sylvia_borin,8,66.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Garden Warbler,Sylvia_borin,18,66.7,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Garden Warbler,Sylvia_borin,265,100,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Goldcrest,Regulus_regulus,8,50,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Goldcrest,Regulus_regulus,14,66.7,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Goldcrest,Regulus_regulus,20,66.7,green
+Knepp,5,50.975371,-0.366484,modified grassland,Goldcrest,Regulus_regulus,125,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Goldcrest,Regulus_regulus,159,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Goldcrest,Regulus_regulus,75,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Goldcrest,Regulus_regulus,61,83.3,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Goldcrest,Regulus_regulus,101,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Goldcrest,Regulus_regulus,7,33.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Goldcrest,Regulus_regulus,7,50,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Goldcrest,Regulus_regulus,28,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Goldcrest,Regulus_regulus,28,66.7,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Goldcrest,Regulus_regulus,663,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Goldcrest,Regulus_regulus,53,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Goldcrest,Regulus_regulus,2,33.3,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Goldcrest,Regulus_regulus,9,66.7,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Goldcrest,Regulus_regulus,26,100,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Goldcrest,Regulus_regulus,28,83.3,green
+Knepp,27,50.971443,-0.392173,modified grassland,Goldcrest,Regulus_regulus,8,16.7,green
+Knepp,28,50.969925,-0.391089,modified grassland,Goldcrest,Regulus_regulus,35,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Goldcrest,Regulus_regulus,59,83.3,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Goldcrest,Regulus_regulus,11,16.7,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Goldcrest,Regulus_regulus,640,100,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Goldcrest,Regulus_regulus,4,33.3,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Goldcrest,Regulus_regulus,19,83.3,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Goldcrest,Regulus_regulus,7,50,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Goldcrest,Regulus_regulus,27,83.3,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Goldcrest,Regulus_regulus,188,83.3,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Goldcrest,Regulus_regulus,28,100,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Goldfinch,Carduelis_carduelis,2392,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Goldfinch,Carduelis_carduelis,76,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Goldfinch,Carduelis_carduelis,3,16.7,green
+Knepp,5,50.975371,-0.366484,modified grassland,Goldfinch,Carduelis_carduelis,37,66.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Goldfinch,Carduelis_carduelis,19,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Goldfinch,Carduelis_carduelis,5,16.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Goldfinch,Carduelis_carduelis,95,83.3,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Goldfinch,Carduelis_carduelis,430,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Goldfinch,Carduelis_carduelis,19,33.3,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Goldfinch,Carduelis_carduelis,121,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Goldfinch,Carduelis_carduelis,25,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Goldfinch,Carduelis_carduelis,193,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Goldfinch,Carduelis_carduelis,751,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Goldfinch,Carduelis_carduelis,532,100,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Goldfinch,Carduelis_carduelis,1592,100,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Goldfinch,Carduelis_carduelis,7,66.7,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Goldfinch,Carduelis_carduelis,4,50,green
+Knepp,28,50.969925,-0.391089,modified grassland,Goldfinch,Carduelis_carduelis,1,16.7,green
+Knepp,29,50.96984,-0.387641,modified grassland,Goldfinch,Carduelis_carduelis,3,50,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Goldfinch,Carduelis_carduelis,5,50,green
+Knepp,5,50.975371,-0.366484,modified grassland,Great Crested Grebe,Podiceps_cristatus,119,83.3,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Great Spotted Woodpecker,Dendrocopos_major,34,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Great Spotted Woodpecker,Dendrocopos_major,28,83.3,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Great Spotted Woodpecker,Dendrocopos_major,41,83.3,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Great Spotted Woodpecker,Dendrocopos_major,7,66.7,green
+Knepp,5,50.975371,-0.366484,modified grassland,Great Spotted Woodpecker,Dendrocopos_major,22,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Great Spotted Woodpecker,Dendrocopos_major,50,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Great Spotted Woodpecker,Dendrocopos_major,36,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Great Spotted Woodpecker,Dendrocopos_major,39,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Great Spotted Woodpecker,Dendrocopos_major,14,66.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Great Spotted Woodpecker,Dendrocopos_major,37,83.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Great Spotted Woodpecker,Dendrocopos_major,23,66.7,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Great Spotted Woodpecker,Dendrocopos_major,28,83.3,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Great Spotted Woodpecker,Dendrocopos_major,41,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Great Spotted Woodpecker,Dendrocopos_major,71,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Great Spotted Woodpecker,Dendrocopos_major,75,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Great Spotted Woodpecker,Dendrocopos_major,61,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Great Spotted Woodpecker,Dendrocopos_major,42,83.3,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Great Spotted Woodpecker,Dendrocopos_major,27,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Great Spotted Woodpecker,Dendrocopos_major,66,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Great Spotted Woodpecker,Dendrocopos_major,61,100,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Great Spotted Woodpecker,Dendrocopos_major,15,66.7,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Great Spotted Woodpecker,Dendrocopos_major,55,83.3,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Great Spotted Woodpecker,Dendrocopos_major,33,83.3,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Great Spotted Woodpecker,Dendrocopos_major,120,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Great Spotted Woodpecker,Dendrocopos_major,242,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Great Spotted Woodpecker,Dendrocopos_major,130,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Great Spotted Woodpecker,Dendrocopos_major,9,66.7,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Great Spotted Woodpecker,Dendrocopos_major,30,66.7,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Great Spotted Woodpecker,Dendrocopos_major,7,50,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Great Spotted Woodpecker,Dendrocopos_major,6,66.7,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Great Spotted Woodpecker,Dendrocopos_major,24,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Great Spotted Woodpecker,Dendrocopos_major,114,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Great Spotted Woodpecker,Dendrocopos_major,19,50,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Great Spotted Woodpecker,Dendrocopos_major,24,100,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Great Tit,Parus_major,7,33.3,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Great Tit,Parus_major,5,50,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Great Tit,Parus_major,4,50,green
+Knepp,5,50.975371,-0.366484,modified grassland,Great Tit,Parus_major,6,83.3,green
+Knepp,6,50.975175,-0.364672,modified grassland,Great Tit,Parus_major,21,83.3,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Great Tit,Parus_major,4,33.3,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Great Tit,Parus_major,19,83.3,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Great Tit,Parus_major,29,83.3,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Great Tit,Parus_major,5,33.3,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Great Tit,Parus_major,24,50,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Great Tit,Parus_major,5,50,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Great Tit,Parus_major,13,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Great Tit,Parus_major,5,66.7,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Great Tit,Parus_major,6,50,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Great Tit,Parus_major,8,66.7,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Great Tit,Parus_major,15,66.7,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Great Tit,Parus_major,21,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Great Tit,Parus_major,5,50,green
+Knepp,27,50.971443,-0.392173,modified grassland,Great Tit,Parus_major,13,50,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Great Tit,Parus_major,19,83.3,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Great Tit,Parus_major,11,66.7,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Great Tit,Parus_major,6,16.7,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Great Tit,Parus_major,10,83.3,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Great Tit,Parus_major,5,66.7,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Green Woodpecker,Picus_viridis,34,83.3,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Green Woodpecker,Picus_viridis,30,100,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Green Woodpecker,Picus_viridis,29,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Green Woodpecker,Picus_viridis,4,50,green
+Knepp,5,50.975371,-0.366484,modified grassland,Green Woodpecker,Picus_viridis,309,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Green Woodpecker,Picus_viridis,133,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Green Woodpecker,Picus_viridis,135,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Green Woodpecker,Picus_viridis,74,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Green Woodpecker,Picus_viridis,15,66.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Green Woodpecker,Picus_viridis,35,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Green Woodpecker,Picus_viridis,40,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Green Woodpecker,Picus_viridis,21,66.7,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Green Woodpecker,Picus_viridis,30,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Green Woodpecker,Picus_viridis,36,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Green Woodpecker,Picus_viridis,9,33.3,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Green Woodpecker,Picus_viridis,74,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Green Woodpecker,Picus_viridis,74,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Green Woodpecker,Picus_viridis,25,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Green Woodpecker,Picus_viridis,50,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Green Woodpecker,Picus_viridis,13,83.3,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Green Woodpecker,Picus_viridis,16,83.3,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Green Woodpecker,Picus_viridis,9,33.3,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Green Woodpecker,Picus_viridis,17,83.3,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Green Woodpecker,Picus_viridis,7,50,green
+Knepp,27,50.971443,-0.392173,modified grassland,Green Woodpecker,Picus_viridis,5,33.3,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Green Woodpecker,Picus_viridis,9,33.3,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Green Woodpecker,Picus_viridis,27,100,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Green Woodpecker,Picus_viridis,7,66.7,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Green Woodpecker,Picus_viridis,36,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Green Woodpecker,Picus_viridis,54,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Green Woodpecker,Picus_viridis,35,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Green Woodpecker,Picus_viridis,18,66.7,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Greenfinch,Chloris_chloris,3,16.7,red
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Greenfinch,Chloris_chloris,38,100,red
+Knepp,4,50.971696,-0.370439,bramble scrub,Grey Heron,Ardea_cinerea,3,33.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Grey Heron,Ardea_cinerea,7,66.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Grey Heron,Ardea_cinerea,1,16.7,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Grey Heron,Ardea_cinerea,3,16.7,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Grey Heron,Ardea_cinerea,5,50,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Grey Heron,Ardea_cinerea,3,33.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Grey Heron,Ardea_cinerea,5,33.3,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Grey Heron,Ardea_cinerea,4,33.3,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Grey Heron,Ardea_cinerea,4,33.3,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Grey Heron,Ardea_cinerea,2,16.7,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Grey Heron,Ardea_cinerea,4,16.7,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Grey Heron,Ardea_cinerea,7,33.3,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Grey Heron,Ardea_cinerea,4,33.3,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Grey Heron,Ardea_cinerea,2,16.7,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Grey Heron,Ardea_cinerea,5,16.7,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Grey Heron,Ardea_cinerea,1,16.7,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Grey Heron,Ardea_cinerea,17,83.3,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Grey Heron,Ardea_cinerea,4,33.3,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Grey Heron,Ardea_cinerea,6,66.7,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Grey Wagtail,Motacilla_cinerea,2,16.7,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Herring Gull,Larus_argentatus,2,33.3,red
+Knepp,20,50.966678,-0.360799,bramble scrub,Herring Gull,Larus_argentatus,1,16.7,red
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",House Martin,Delichon_urbicum,3,16.7,red
+Knepp,5,50.975371,-0.366484,modified grassland,House Sparrow,Passer_domesticus,2,33.3,red
+Knepp,18,50.963607,-0.360491,other neutral grassland ,House Sparrow,Passer_domesticus,493,100,red
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Jackdaw,Corvus_monedula,47,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Jackdaw,Corvus_monedula,186,100,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Jackdaw,Corvus_monedula,69,100,green
+Knepp,5,50.975371,-0.366484,modified grassland,Jackdaw,Corvus_monedula,89,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Jackdaw,Corvus_monedula,144,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Jackdaw,Corvus_monedula,63,83.3,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Jackdaw,Corvus_monedula,26,83.3,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Jackdaw,Corvus_monedula,17,66.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Jackdaw,Corvus_monedula,42,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Jackdaw,Corvus_monedula,13,83.3,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Jackdaw,Corvus_monedula,64,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Jackdaw,Corvus_monedula,125,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Jackdaw,Corvus_monedula,17,66.7,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Jackdaw,Corvus_monedula,96,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Jackdaw,Corvus_monedula,166,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Jackdaw,Corvus_monedula,277,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Jackdaw,Corvus_monedula,511,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Jackdaw,Corvus_monedula,68,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Jackdaw,Corvus_monedula,22,100,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Jackdaw,Corvus_monedula,61,100,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Jackdaw,Corvus_monedula,142,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Jackdaw,Corvus_monedula,79,100,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Jackdaw,Corvus_monedula,84,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Jackdaw,Corvus_monedula,83,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Jackdaw,Corvus_monedula,118,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Jackdaw,Corvus_monedula,76,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Jackdaw,Corvus_monedula,15,83.3,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Jackdaw,Corvus_monedula,12,83.3,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Jackdaw,Corvus_monedula,37,100,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Jackdaw,Corvus_monedula,92,100,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Jackdaw,Corvus_monedula,210,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Jackdaw,Corvus_monedula,11,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Jackdaw,Corvus_monedula,22,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Jackdaw,Corvus_monedula,283,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Jay,Garrulus_glandarius,14,50,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Jay,Garrulus_glandarius,4,16.7,green
+Knepp,5,50.975371,-0.366484,modified grassland,Jay,Garrulus_glandarius,4,33.3,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Jay,Garrulus_glandarius,16,66.7,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Jay,Garrulus_glandarius,23,66.7,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Jay,Garrulus_glandarius,109,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Jay,Garrulus_glandarius,20,50,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Jay,Garrulus_glandarius,219,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Jay,Garrulus_glandarius,38,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Jay,Garrulus_glandarius,11,16.7,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Jay,Garrulus_glandarius,5,16.7,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Jay,Garrulus_glandarius,11,33.3,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Jay,Garrulus_glandarius,4,33.3,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Jay,Garrulus_glandarius,6,50,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Jay,Garrulus_glandarius,10,50,green
+Knepp,27,50.971443,-0.392173,modified grassland,Jay,Garrulus_glandarius,7,33.3,green
+Knepp,28,50.969925,-0.391089,modified grassland,Jay,Garrulus_glandarius,4,33.3,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Jay,Garrulus_glandarius,22,66.7,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Jay,Garrulus_glandarius,4,16.7,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Jay,Garrulus_glandarius,24,50,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Jay,Garrulus_glandarius,5,66.7,green
+Knepp,29,50.96984,-0.387641,modified grassland,Kestrel,Falco_tinnunculus,5,50,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Kingfisher,Alcedo_atthis,30,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Kingfisher,Alcedo_atthis,10,83.3,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Kingfisher,Alcedo_atthis,9,33.3,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Lesser Whitethroat,Curruca_curruca,398,0,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Lesser Whitethroat,Curruca_curruca,63,0,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Lesser Whitethroat,Curruca_curruca,416,0,green
+Knepp,5,50.975371,-0.366484,modified grassland,Lesser Whitethroat,Curruca_curruca,43,0,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Lesser Whitethroat,Curruca_curruca,4,0,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Lesser Whitethroat,Curruca_curruca,11,0,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Lesser Whitethroat,Curruca_curruca,5,0,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Lesser Whitethroat,Curruca_curruca,39,0,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Lesser Whitethroat,Curruca_curruca,5,0,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Lesser Whitethroat,Curruca_curruca,17,0,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Lesser Whitethroat,Curruca_curruca,13,0,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Lesser Whitethroat,Curruca_curruca,32,0,green
+Knepp,27,50.971443,-0.392173,modified grassland,Lesser Whitethroat,Curruca_curruca,8,0,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Lesser Whitethroat,Curruca_curruca,13,0,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Linnet,Linaria_cannabina,23,83.3,red
+Knepp,2,50.967893,-0.368796,mixed scrub,Linnet,Linaria_cannabina,26,83.3,red
+Knepp,4,50.971696,-0.370439,bramble scrub,Linnet,Linaria_cannabina,583,100,red
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Linnet,Linaria_cannabina,1,16.7,red
+Knepp,10,50.976519,-0.370451,mixed scrub,Linnet,Linaria_cannabina,12,83.3,red
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Linnet,Linaria_cannabina,16,66.7,red
+Knepp,19,50.969009,-0.358008,bramble scrub,Linnet,Linaria_cannabina,74,83.3,red
+Knepp,20,50.966678,-0.360799,bramble scrub,Linnet,Linaria_cannabina,194,100,red
+Knepp,21,50.977988,-0.383713,lowland meadows,Linnet,Linaria_cannabina,12,33.3,red
+Knepp,22,50.977833,-0.380611,lowland meadows,Linnet,Linaria_cannabina,20,83.3,red
+Knepp,23,50.976772,-0.38361,mixed scrub,Linnet,Linaria_cannabina,18,66.7,red
+Knepp,24,50.974794,-0.382577,lowland meadows,Linnet,Linaria_cannabina,7,33.3,red
+Knepp,29,50.96984,-0.387641,modified grassland,Linnet,Linaria_cannabina,56,100,red
+Knepp,32,50.970698,-0.38572,bramble scrub,Linnet,Linaria_cannabina,190,100,red
+Knepp,33,50.971291,-0.388367,bramble scrub,Linnet,Linaria_cannabina,214,100,red
+Knepp,37,50.963235,-0.373844,mixed scrub,Linnet,Linaria_cannabina,13,50,red
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Linnet,Linaria_cannabina,23,100,red
+Knepp,16,50.978814,-0.390672,mixed scrub,Little Owl,Athene_noctua,4,33.3,introduced
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Long-tailed Tit,Aegithalos_caudatus,33,83.3,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Long-tailed Tit,Aegithalos_caudatus,78,100,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Long-tailed Tit,Aegithalos_caudatus,8,50,green
+Knepp,5,50.975371,-0.366484,modified grassland,Long-tailed Tit,Aegithalos_caudatus,58,83.3,green
+Knepp,6,50.975175,-0.364672,modified grassland,Long-tailed Tit,Aegithalos_caudatus,41,83.3,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Long-tailed Tit,Aegithalos_caudatus,35,66.7,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Long-tailed Tit,Aegithalos_caudatus,88,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Long-tailed Tit,Aegithalos_caudatus,84,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Long-tailed Tit,Aegithalos_caudatus,25,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Long-tailed Tit,Aegithalos_caudatus,54,83.3,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Long-tailed Tit,Aegithalos_caudatus,52,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Long-tailed Tit,Aegithalos_caudatus,55,83.3,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Long-tailed Tit,Aegithalos_caudatus,36,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Long-tailed Tit,Aegithalos_caudatus,92,83.3,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Long-tailed Tit,Aegithalos_caudatus,6,16.7,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Long-tailed Tit,Aegithalos_caudatus,7,50,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Long-tailed Tit,Aegithalos_caudatus,103,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Long-tailed Tit,Aegithalos_caudatus,11,50,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Long-tailed Tit,Aegithalos_caudatus,42,66.7,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Long-tailed Tit,Aegithalos_caudatus,49,50,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Long-tailed Tit,Aegithalos_caudatus,5,16.7,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Long-tailed Tit,Aegithalos_caudatus,97,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Long-tailed Tit,Aegithalos_caudatus,36,66.7,green
+Knepp,27,50.971443,-0.392173,modified grassland,Long-tailed Tit,Aegithalos_caudatus,118,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Long-tailed Tit,Aegithalos_caudatus,330,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Long-tailed Tit,Aegithalos_caudatus,23,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Long-tailed Tit,Aegithalos_caudatus,99,100,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Long-tailed Tit,Aegithalos_caudatus,42,83.3,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Long-tailed Tit,Aegithalos_caudatus,13,50,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Long-tailed Tit,Aegithalos_caudatus,38,83.3,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Long-tailed Tit,Aegithalos_caudatus,15,83.3,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Long-tailed Tit,Aegithalos_caudatus,227,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Long-tailed Tit,Aegithalos_caudatus,30,33.3,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Magpie,Pica_pica,252,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Magpie,Pica_pica,85,100,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Magpie,Pica_pica,112,100,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Magpie,Pica_pica,94,100,green
+Knepp,5,50.975371,-0.366484,modified grassland,Magpie,Pica_pica,66,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Magpie,Pica_pica,207,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Magpie,Pica_pica,86,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Magpie,Pica_pica,116,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Magpie,Pica_pica,130,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Magpie,Pica_pica,258,100,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Magpie,Pica_pica,37,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Magpie,Pica_pica,33,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Magpie,Pica_pica,98,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Magpie,Pica_pica,31,83.3,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Magpie,Pica_pica,211,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Magpie,Pica_pica,47,83.3,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Magpie,Pica_pica,148,100,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Magpie,Pica_pica,110,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Magpie,Pica_pica,40,100,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Magpie,Pica_pica,153,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Magpie,Pica_pica,28,83.3,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Magpie,Pica_pica,156,100,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Magpie,Pica_pica,63,83.3,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Magpie,Pica_pica,128,100,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Magpie,Pica_pica,3,33.3,green
+Knepp,27,50.971443,-0.392173,modified grassland,Magpie,Pica_pica,168,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Magpie,Pica_pica,116,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Magpie,Pica_pica,140,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Magpie,Pica_pica,43,100,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Magpie,Pica_pica,57,100,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Magpie,Pica_pica,41,100,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Magpie,Pica_pica,149,100,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Magpie,Pica_pica,28,50,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Magpie,Pica_pica,87,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Magpie,Pica_pica,45,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Magpie,Pica_pica,19,100,green
+Knepp,5,50.975371,-0.366484,modified grassland,Mallard,Anas_platyrhynchos,79,83.3,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Mallard,Anas_platyrhynchos,14,66.7,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Mallard,Anas_platyrhynchos,43,50,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Mallard,Anas_platyrhynchos,2,16.7,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Mallard,Anas_platyrhynchos,3,16.7,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Mallard,Anas_platyrhynchos,6,50,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Mallard,Anas_platyrhynchos,7,33.3,amber
+Knepp,22,50.977833,-0.380611,lowland meadows,Mallard,Anas_platyrhynchos,2,16.7,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Mallard,Anas_platyrhynchos,13,50,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Mallard,Anas_platyrhynchos,48,100,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Mallard,Anas_platyrhynchos,10,66.7,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Mallard,Anas_platyrhynchos,6,50,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Mistle Thrush,Turdus_viscivorus,10,66.7,red
+Knepp,29,50.96984,-0.387641,modified grassland,Mistle Thrush,Turdus_viscivorus,6,50,red
+Knepp,5,50.975371,-0.366484,modified grassland,Moorhen,Gallinula_chloropus,40,100,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Moorhen,Gallinula_chloropus,4,50,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Moorhen,Gallinula_chloropus,17,50,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Moorhen,Gallinula_chloropus,3,33.3,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Moorhen,Gallinula_chloropus,4,50,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Moorhen,Gallinula_chloropus,42,100,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Mute Swan,Cygnus_olor,2,16.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Nuthatch,Sitta_europaea,24,83.3,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Nuthatch,Sitta_europaea,6,66.7,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Nuthatch,Sitta_europaea,48,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Nuthatch,Sitta_europaea,12,83.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Nuthatch,Sitta_europaea,22,66.7,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Nuthatch,Sitta_europaea,38,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Nuthatch,Sitta_europaea,62,83.3,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Nuthatch,Sitta_europaea,47,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Nuthatch,Sitta_europaea,16,83.3,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Nuthatch,Sitta_europaea,44,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Nuthatch,Sitta_europaea,15,66.7,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Nuthatch,Sitta_europaea,86,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Nuthatch,Sitta_europaea,28,83.3,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Pheasant,Phasianus_colchicus,4,16.7,introduced
+Knepp,8,50.977368,-0.361089,wet woodland ,Pheasant,Phasianus_colchicus,22,83.3,introduced
+Knepp,10,50.976519,-0.370451,mixed scrub,Pheasant,Phasianus_colchicus,11,66.7,introduced
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Pheasant,Phasianus_colchicus,7,33.3,introduced
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Pheasant,Phasianus_colchicus,10,83.3,introduced
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Pheasant,Phasianus_colchicus,37,100,introduced
+Knepp,16,50.978814,-0.390672,mixed scrub,Pheasant,Phasianus_colchicus,5,66.7,introduced
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Pheasant,Phasianus_colchicus,15,33.3,introduced
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Pheasant,Phasianus_colchicus,5,33.3,introduced
+Knepp,27,50.971443,-0.392173,modified grassland,Pheasant,Phasianus_colchicus,5,16.7,introduced
+Knepp,28,50.969925,-0.391089,modified grassland,Pheasant,Phasianus_colchicus,5,33.3,introduced
+Knepp,29,50.96984,-0.387641,modified grassland,Pheasant,Phasianus_colchicus,2,16.7,introduced
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Pheasant,Phasianus_colchicus,7,50,introduced
+Knepp,31,50.970467,-0.383928,wet woodland ,Pheasant,Phasianus_colchicus,8,50,introduced
+Knepp,32,50.970698,-0.38572,bramble scrub,Pheasant,Phasianus_colchicus,3,33.3,introduced
+Knepp,33,50.971291,-0.388367,bramble scrub,Pheasant,Phasianus_colchicus,5,50,introduced
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Pheasant,Phasianus_colchicus,4,33.3,introduced
+Knepp,35,50.968283,-0.375798,wet woodland ,Pheasant,Phasianus_colchicus,9,50,introduced
+Knepp,37,50.963235,-0.373844,mixed scrub,Pheasant,Phasianus_colchicus,3,33.3,introduced
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Pheasant,Phasianus_colchicus,8,50,introduced
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Pied Wagtail,Motacilla_alba,7,33.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Pied Wagtail,Motacilla_alba,7,66.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Pied Wagtail,Motacilla_alba,8,66.7,green
+Knepp,28,50.969925,-0.391089,modified grassland,Pied Wagtail,Motacilla_alba,9,50,green
+Knepp,5,50.975371,-0.366484,modified grassland,Raven,Corvus_corax,8,16.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Raven,Corvus_corax,17,33.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Reed Warbler,Acrocephalus_scirpaceus,9,66.7,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Reed Warbler,Acrocephalus_scirpaceus,45,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Reed Warbler,Acrocephalus_scirpaceus,3,16.7,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Reed Warbler,Acrocephalus_scirpaceus,10,66.7,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Robin,Erithacus_rubecula,19,83.3,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Robin,Erithacus_rubecula,11,66.7,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Robin,Erithacus_rubecula,15,66.7,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Robin,Erithacus_rubecula,42,83.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Robin,Erithacus_rubecula,115,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Robin,Erithacus_rubecula,205,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Robin,Erithacus_rubecula,213,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Robin,Erithacus_rubecula,349,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Robin,Erithacus_rubecula,20,83.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Robin,Erithacus_rubecula,109,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Robin,Erithacus_rubecula,78,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Robin,Erithacus_rubecula,75,83.3,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Robin,Erithacus_rubecula,292,100,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Robin,Erithacus_rubecula,359,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Robin,Erithacus_rubecula,19,83.3,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Robin,Erithacus_rubecula,27,100,green
+Knepp,20,50.966678,-0.360799,bramble scrub,Robin,Erithacus_rubecula,15,50,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Robin,Erithacus_rubecula,29,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Robin,Erithacus_rubecula,80,100,green
+Knepp,23,50.976772,-0.38361,mixed scrub,Robin,Erithacus_rubecula,77,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Robin,Erithacus_rubecula,37,83.3,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Robin,Erithacus_rubecula,36,83.3,green
+Knepp,27,50.971443,-0.392173,modified grassland,Robin,Erithacus_rubecula,127,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Robin,Erithacus_rubecula,181,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Robin,Erithacus_rubecula,64,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Robin,Erithacus_rubecula,56,66.7,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Robin,Erithacus_rubecula,74,83.3,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Robin,Erithacus_rubecula,93,100,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Robin,Erithacus_rubecula,113,100,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Robin,Erithacus_rubecula,35,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Robin,Erithacus_rubecula,116,100,green
+Knepp,37,50.963235,-0.373844,mixed scrub,Robin,Erithacus_rubecula,92,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Robin,Erithacus_rubecula,11,100,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Rook,Corvus_frugilegus,11,50,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Rook,Corvus_frugilegus,30,100,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Rook,Corvus_frugilegus,8,66.7,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Rook,Corvus_frugilegus,14,100,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Rook,Corvus_frugilegus,14,83.3,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Rook,Corvus_frugilegus,22,100,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Rook,Corvus_frugilegus,51,100,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Rook,Corvus_frugilegus,38,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Rook,Corvus_frugilegus,12,50,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Rook,Corvus_frugilegus,156,100,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Rook,Corvus_frugilegus,14,83.3,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Rook,Corvus_frugilegus,38,66.7,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Rook,Corvus_frugilegus,4,16.7,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Rook,Corvus_frugilegus,81,83.3,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Skylark,Alauda_arvensis,13,66.7,red
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Song Thrush,Turdus_philomelos,27,83.3,amber
+Knepp,2,50.967893,-0.368796,mixed scrub,Song Thrush,Turdus_philomelos,98,100,amber
+Knepp,3,50.970471,-0.370462,wet woodland ,Song Thrush,Turdus_philomelos,8,50,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Song Thrush,Turdus_philomelos,30,100,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Song Thrush,Turdus_philomelos,78,100,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Song Thrush,Turdus_philomelos,27,83.3,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Song Thrush,Turdus_philomelos,147,100,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Song Thrush,Turdus_philomelos,49,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Song Thrush,Turdus_philomelos,284,100,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Song Thrush,Turdus_philomelos,39,83.3,amber
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Song Thrush,Turdus_philomelos,131,100,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Song Thrush,Turdus_philomelos,46,100,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Song Thrush,Turdus_philomelos,525,100,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Song Thrush,Turdus_philomelos,37,100,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Song Thrush,Turdus_philomelos,27,83.3,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Song Thrush,Turdus_philomelos,11,50,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Song Thrush,Turdus_philomelos,78,100,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Song Thrush,Turdus_philomelos,183,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Song Thrush,Turdus_philomelos,136,100,amber
+Knepp,22,50.977833,-0.380611,lowland meadows,Song Thrush,Turdus_philomelos,87,100,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Song Thrush,Turdus_philomelos,157,100,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Song Thrush,Turdus_philomelos,104,100,amber
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Song Thrush,Turdus_philomelos,5,50,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Song Thrush,Turdus_philomelos,19,66.7,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Song Thrush,Turdus_philomelos,14,50,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Song Thrush,Turdus_philomelos,22,83.3,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Song Thrush,Turdus_philomelos,110,100,amber
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Song Thrush,Turdus_philomelos,1,16.7,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Song Thrush,Turdus_philomelos,128,100,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Song Thrush,Turdus_philomelos,292,100,amber
+Knepp,33,50.971291,-0.388367,bramble scrub,Song Thrush,Turdus_philomelos,151,100,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Song Thrush,Turdus_philomelos,35,83.3,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Song Thrush,Turdus_philomelos,181,100,amber
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Song Thrush,Turdus_philomelos,44,100,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Song Thrush,Turdus_philomelos,547,100,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Song Thrush,Turdus_philomelos,160,100,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Sparrowhawk,Accipiter_nisus,31,66.7,amber
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Sparrowhawk,Accipiter_nisus,8,83.3,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Spotted Flycatcher,Muscicapa_striata,62,50,red
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Spotted Flycatcher,Muscicapa_striata,44,83.3,red
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Spotted Flycatcher,Muscicapa_striata,253,100,red
+Knepp,16,50.978814,-0.390672,mixed scrub,Spotted Flycatcher,Muscicapa_striata,12,66.7,red
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Spotted Flycatcher,Muscicapa_striata,157,100,red
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Spotted Flycatcher,Muscicapa_striata,373,100,red
+Knepp,28,50.969925,-0.391089,modified grassland,Spotted Flycatcher,Muscicapa_striata,42,100,red
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Spotted Flycatcher,Muscicapa_striata,7,66.7,red
+Knepp,35,50.968283,-0.375798,wet woodland ,Spotted Flycatcher,Muscicapa_striata,39,66.7,red
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Starling,Sturnus_vulgaris,14,33.3,red
+Knepp,6,50.975175,-0.364672,modified grassland,Starling,Sturnus_vulgaris,87,83.3,red
+Knepp,7,50.976056,-0.362541,wet woodland ,Starling,Sturnus_vulgaris,4,33.3,red
+Knepp,8,50.977368,-0.361089,wet woodland ,Starling,Sturnus_vulgaris,7,50,red
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Starling,Sturnus_vulgaris,10,16.7,red
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Starling,Sturnus_vulgaris,49,50,red
+Knepp,2,50.967893,-0.368796,mixed scrub,Stock Dove,Columba_oenas,48,100,amber
+Knepp,3,50.970471,-0.370462,wet woodland ,Stock Dove,Columba_oenas,294,100,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Stock Dove,Columba_oenas,54,83.3,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Stock Dove,Columba_oenas,70,100,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Stock Dove,Columba_oenas,193,100,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Stock Dove,Columba_oenas,201,100,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Stock Dove,Columba_oenas,145,100,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Stock Dove,Columba_oenas,126,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Stock Dove,Columba_oenas,33,100,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Stock Dove,Columba_oenas,77,100,amber
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Stock Dove,Columba_oenas,98,100,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Stock Dove,Columba_oenas,96,100,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Stock Dove,Columba_oenas,146,100,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Stock Dove,Columba_oenas,23,83.3,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Stock Dove,Columba_oenas,9,83.3,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Stock Dove,Columba_oenas,20,66.7,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Stock Dove,Columba_oenas,25,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Stock Dove,Columba_oenas,26,100,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Stock Dove,Columba_oenas,16,66.7,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Stock Dove,Columba_oenas,60,100,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Stock Dove,Columba_oenas,107,100,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Stock Dove,Columba_oenas,140,100,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Stock Dove,Columba_oenas,87,100,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Stock Dove,Columba_oenas,78,100,amber
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Stock Dove,Columba_oenas,102,100,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Stock Dove,Columba_oenas,61,100,amber
+Knepp,33,50.971291,-0.388367,bramble scrub,Stock Dove,Columba_oenas,268,100,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Stock Dove,Columba_oenas,231,100,amber
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Stock Dove,Columba_oenas,199,100,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Stock Dove,Columba_oenas,23,83.3,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Stock Dove,Columba_oenas,21,100,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Swallow,Hirundo_rustica,11,83.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Swallow,Hirundo_rustica,10,66.7,green
+Knepp,6,50.975175,-0.364672,modified grassland,Swallow,Hirundo_rustica,24,83.3,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Swallow,Hirundo_rustica,6,50,green
+Knepp,27,50.971443,-0.392173,modified grassland,Swallow,Hirundo_rustica,3,33.3,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Swallow,Hirundo_rustica,3,16.7,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Swift,Apus_apus,4,16.7,red
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Swift,Apus_apus,1,16.7,red
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Swift,Apus_apus,6,33.3,red
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Tawny Owl,Strix_aluco,137,83.3,amber
+Knepp,3,50.970471,-0.370462,wet woodland ,Tawny Owl,Strix_aluco,36,50,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Tawny Owl,Strix_aluco,3,33.3,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Tawny Owl,Strix_aluco,5,33.3,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Tawny Owl,Strix_aluco,9,33.3,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Tawny Owl,Strix_aluco,16,83.3,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Tawny Owl,Strix_aluco,159,83.3,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Tawny Owl,Strix_aluco,4,50,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Tawny Owl,Strix_aluco,10,83.3,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Tawny Owl,Strix_aluco,26,50,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Tawny Owl,Strix_aluco,12,66.7,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Tawny Owl,Strix_aluco,10,50,amber
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Tawny Owl,Strix_aluco,11,66.7,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Tawny Owl,Strix_aluco,255,100,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Tawny Owl,Strix_aluco,1297,100,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Tawny Owl,Strix_aluco,177,100,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Tawny Owl,Strix_aluco,8,50,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Tawny Owl,Strix_aluco,6,33.3,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Tawny Owl,Strix_aluco,21,50,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Tawny Owl,Strix_aluco,734,100,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Tawny Owl,Strix_aluco,14,66.7,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Treecreeper,Certhia_familiaris,52,100,green
+Knepp,2,50.967893,-0.368796,mixed scrub,Treecreeper,Certhia_familiaris,7,66.7,green
+Knepp,3,50.970471,-0.370462,wet woodland ,Treecreeper,Certhia_familiaris,22,66.7,green
+Knepp,4,50.971696,-0.370439,bramble scrub,Treecreeper,Certhia_familiaris,54,83.3,green
+Knepp,5,50.975371,-0.366484,modified grassland,Treecreeper,Certhia_familiaris,182,100,green
+Knepp,6,50.975175,-0.364672,modified grassland,Treecreeper,Certhia_familiaris,228,100,green
+Knepp,7,50.976056,-0.362541,wet woodland ,Treecreeper,Certhia_familiaris,148,100,green
+Knepp,8,50.977368,-0.361089,wet woodland ,Treecreeper,Certhia_familiaris,445,100,green
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Treecreeper,Certhia_familiaris,477,100,green
+Knepp,10,50.976519,-0.370451,mixed scrub,Treecreeper,Certhia_familiaris,13,83.3,green
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Treecreeper,Certhia_familiaris,406,100,green
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Treecreeper,Certhia_familiaris,267,100,green
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Treecreeper,Certhia_familiaris,295,100,green
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Treecreeper,Certhia_familiaris,317,100,green
+Knepp,16,50.978814,-0.390672,mixed scrub,Treecreeper,Certhia_familiaris,26,50,green
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Treecreeper,Certhia_familiaris,154,100,green
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Treecreeper,Certhia_familiaris,8,50,green
+Knepp,19,50.969009,-0.358008,bramble scrub,Treecreeper,Certhia_familiaris,56,83.3,green
+Knepp,21,50.977988,-0.383713,lowland meadows,Treecreeper,Certhia_familiaris,118,100,green
+Knepp,22,50.977833,-0.380611,lowland meadows,Treecreeper,Certhia_familiaris,84,83.3,green
+Knepp,24,50.974794,-0.382577,lowland meadows,Treecreeper,Certhia_familiaris,441,100,green
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Treecreeper,Certhia_familiaris,36,100,green
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Treecreeper,Certhia_familiaris,1701,100,green
+Knepp,27,50.971443,-0.392173,modified grassland,Treecreeper,Certhia_familiaris,550,100,green
+Knepp,28,50.969925,-0.391089,modified grassland,Treecreeper,Certhia_familiaris,103,100,green
+Knepp,29,50.96984,-0.387641,modified grassland,Treecreeper,Certhia_familiaris,40,100,green
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Treecreeper,Certhia_familiaris,440,100,green
+Knepp,31,50.970467,-0.383928,wet woodland ,Treecreeper,Certhia_familiaris,308,100,green
+Knepp,32,50.970698,-0.38572,bramble scrub,Treecreeper,Certhia_familiaris,20,66.7,green
+Knepp,33,50.971291,-0.388367,bramble scrub,Treecreeper,Certhia_familiaris,42,100,green
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Treecreeper,Certhia_familiaris,148,100,green
+Knepp,35,50.968283,-0.375798,wet woodland ,Treecreeper,Certhia_familiaris,162,100,green
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Treecreeper,Certhia_familiaris,218,100,green
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Treecreeper,Certhia_familiaris,31,83.3,green
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Turtle Dove,Streptopelia_turtur,29,83.3,red
+Knepp,2,50.967893,-0.368796,mixed scrub,Turtle Dove,Streptopelia_turtur,509,100,red
+Knepp,3,50.970471,-0.370462,wet woodland ,Turtle Dove,Streptopelia_turtur,961,100,red
+Knepp,4,50.971696,-0.370439,bramble scrub,Turtle Dove,Streptopelia_turtur,395,100,red
+Knepp,5,50.975371,-0.366484,modified grassland,Turtle Dove,Streptopelia_turtur,34,83.3,red
+Knepp,6,50.975175,-0.364672,modified grassland,Turtle Dove,Streptopelia_turtur,8,66.7,red
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Turtle Dove,Streptopelia_turtur,314,100,red
+Knepp,10,50.976519,-0.370451,mixed scrub,Turtle Dove,Streptopelia_turtur,56,100,red
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Turtle Dove,Streptopelia_turtur,37,100,red
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Turtle Dove,Streptopelia_turtur,21,66.7,red
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Turtle Dove,Streptopelia_turtur,27,83.3,red
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Turtle Dove,Streptopelia_turtur,15,66.7,red
+Knepp,16,50.978814,-0.390672,mixed scrub,Turtle Dove,Streptopelia_turtur,77,100,red
+Knepp,19,50.969009,-0.358008,bramble scrub,Turtle Dove,Streptopelia_turtur,21,100,red
+Knepp,21,50.977988,-0.383713,lowland meadows,Turtle Dove,Streptopelia_turtur,39,100,red
+Knepp,22,50.977833,-0.380611,lowland meadows,Turtle Dove,Streptopelia_turtur,43,100,red
+Knepp,23,50.976772,-0.38361,mixed scrub,Turtle Dove,Streptopelia_turtur,47,100,red
+Knepp,24,50.974794,-0.382577,lowland meadows,Turtle Dove,Streptopelia_turtur,47,100,red
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Turtle Dove,Streptopelia_turtur,44,100,red
+Knepp,29,50.96984,-0.387641,modified grassland,Turtle Dove,Streptopelia_turtur,27,100,red
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Turtle Dove,Streptopelia_turtur,78,100,red
+Knepp,31,50.970467,-0.383928,wet woodland ,Turtle Dove,Streptopelia_turtur,162,100,red
+Knepp,32,50.970698,-0.38572,bramble scrub,Turtle Dove,Streptopelia_turtur,106,100,red
+Knepp,33,50.971291,-0.388367,bramble scrub,Turtle Dove,Streptopelia_turtur,35,66.7,red
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Turtle Dove,Streptopelia_turtur,43,66.7,red
+Knepp,35,50.968283,-0.375798,wet woodland ,Turtle Dove,Streptopelia_turtur,46,83.3,red
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Turtle Dove,Streptopelia_turtur,57,100,red
+Knepp,37,50.963235,-0.373844,mixed scrub,Turtle Dove,Streptopelia_turtur,117,100,red
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Turtle Dove,Streptopelia_turtur,65,100,red
+Knepp,1,50.970786,-0.365226,other neutral grassland ,White Stork,Ciconia_ciconia,28,83.3,
+Knepp,2,50.967893,-0.368796,mixed scrub,White Stork,Ciconia_ciconia,56,100,
+Knepp,3,50.970471,-0.370462,wet woodland ,White Stork,Ciconia_ciconia,194,100,
+Knepp,4,50.971696,-0.370439,bramble scrub,White Stork,Ciconia_ciconia,43,100,
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",White Stork,Ciconia_ciconia,13,83.3,
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,White Stork,Ciconia_ciconia,21,66.7,
+Knepp,37,50.963235,-0.373844,mixed scrub,White Stork,Ciconia_ciconia,8,50,
+Knepp,2,50.967893,-0.368796,mixed scrub,Whitethroat,Curruca_communis,10,50,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Whitethroat,Curruca_communis,67,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Whitethroat,Curruca_communis,142,100,amber
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Whitethroat,Curruca_communis,7,33.3,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Whitethroat,Curruca_communis,1456,100,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Whitethroat,Curruca_communis,76,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Whitethroat,Curruca_communis,144,100,amber
+Knepp,22,50.977833,-0.380611,lowland meadows,Whitethroat,Curruca_communis,916,100,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Whitethroat,Curruca_communis,736,100,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Whitethroat,Curruca_communis,102,83.3,amber
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Whitethroat,Curruca_communis,754,100,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Whitethroat,Curruca_communis,56,100,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Whitethroat,Curruca_communis,17,16.7,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Whitethroat,Curruca_communis,2,33.3,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Whitethroat,Curruca_communis,324,100,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Whitethroat,Curruca_communis,19,83.3,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Whitethroat,Curruca_communis,1560,100,amber
+Knepp,33,50.971291,-0.388367,bramble scrub,Whitethroat,Curruca_communis,364,100,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Whitethroat,Curruca_communis,42,83.3,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Woodpigeon,Columba_palumbus,135,100,amber
+Knepp,2,50.967893,-0.368796,mixed scrub,Woodpigeon,Columba_palumbus,379,100,amber
+Knepp,3,50.970471,-0.370462,wet woodland ,Woodpigeon,Columba_palumbus,97,100,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Woodpigeon,Columba_palumbus,132,100,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Woodpigeon,Columba_palumbus,504,100,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Woodpigeon,Columba_palumbus,345,100,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Woodpigeon,Columba_palumbus,513,100,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Woodpigeon,Columba_palumbus,365,100,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Woodpigeon,Columba_palumbus,787,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Woodpigeon,Columba_palumbus,710,100,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Woodpigeon,Columba_palumbus,693,100,amber
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Woodpigeon,Columba_palumbus,547,100,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Woodpigeon,Columba_palumbus,624,100,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Woodpigeon,Columba_palumbus,468,100,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Woodpigeon,Columba_palumbus,506,100,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Woodpigeon,Columba_palumbus,338,100,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Woodpigeon,Columba_palumbus,350,100,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Woodpigeon,Columba_palumbus,246,100,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Woodpigeon,Columba_palumbus,135,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Woodpigeon,Columba_palumbus,654,100,amber
+Knepp,22,50.977833,-0.380611,lowland meadows,Woodpigeon,Columba_palumbus,211,100,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Woodpigeon,Columba_palumbus,256,100,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Woodpigeon,Columba_palumbus,623,100,amber
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Woodpigeon,Columba_palumbus,139,100,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Woodpigeon,Columba_palumbus,407,100,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Woodpigeon,Columba_palumbus,462,100,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Woodpigeon,Columba_palumbus,464,100,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Woodpigeon,Columba_palumbus,183,100,amber
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Woodpigeon,Columba_palumbus,98,100,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Woodpigeon,Columba_palumbus,740,100,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Woodpigeon,Columba_palumbus,112,100,amber
+Knepp,33,50.971291,-0.388367,bramble scrub,Woodpigeon,Columba_palumbus,424,100,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Woodpigeon,Columba_palumbus,153,100,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Woodpigeon,Columba_palumbus,1013,100,amber
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Woodpigeon,Columba_palumbus,637,100,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Woodpigeon,Columba_palumbus,345,100,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Woodpigeon,Columba_palumbus,361,100,amber
+Knepp,1,50.970786,-0.365226,other neutral grassland ,Wren,Troglodytes_troglodytes,256,100,amber
+Knepp,2,50.967893,-0.368796,mixed scrub,Wren,Troglodytes_troglodytes,295,100,amber
+Knepp,3,50.970471,-0.370462,wet woodland ,Wren,Troglodytes_troglodytes,334,100,amber
+Knepp,4,50.971696,-0.370439,bramble scrub,Wren,Troglodytes_troglodytes,210,100,amber
+Knepp,5,50.975371,-0.366484,modified grassland,Wren,Troglodytes_troglodytes,304,100,amber
+Knepp,6,50.975175,-0.364672,modified grassland,Wren,Troglodytes_troglodytes,1472,100,amber
+Knepp,7,50.976056,-0.362541,wet woodland ,Wren,Troglodytes_troglodytes,953,100,amber
+Knepp,8,50.977368,-0.361089,wet woodland ,Wren,Troglodytes_troglodytes,639,100,amber
+Knepp,9,50.974935,-0.371197,lowland mixed deciduous woodland,Wren,Troglodytes_troglodytes,206,100,amber
+Knepp,10,50.976519,-0.370451,mixed scrub,Wren,Troglodytes_troglodytes,529,100,amber
+Knepp,11,50.976229,-0.374935,"other woodland, mixed",Wren,Troglodytes_troglodytes,333,100,amber
+Knepp,12,50.978996,-0.375064,lowland mixed deciduous woodland,Wren,Troglodytes_troglodytes,214,100,amber
+Knepp,13,50.974165,-0.379955,"other woodland, mixed",Wren,Troglodytes_troglodytes,453,100,amber
+Knepp,14,50.971394,-0.375411,"other woodland, mixed",Wren,Troglodytes_troglodytes,351,100,amber
+Knepp,16,50.978814,-0.390672,mixed scrub,Wren,Troglodytes_troglodytes,922,100,amber
+Knepp,17,50.96658,-0.357639,"other woodland, mixed",Wren,Troglodytes_troglodytes,543,100,amber
+Knepp,18,50.963607,-0.360491,other neutral grassland ,Wren,Troglodytes_troglodytes,79,100,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Wren,Troglodytes_troglodytes,839,100,amber
+Knepp,20,50.966678,-0.360799,bramble scrub,Wren,Troglodytes_troglodytes,1530,100,amber
+Knepp,21,50.977988,-0.383713,lowland meadows,Wren,Troglodytes_troglodytes,207,100,amber
+Knepp,22,50.977833,-0.380611,lowland meadows,Wren,Troglodytes_troglodytes,82,100,amber
+Knepp,23,50.976772,-0.38361,mixed scrub,Wren,Troglodytes_troglodytes,73,100,amber
+Knepp,24,50.974794,-0.382577,lowland meadows,Wren,Troglodytes_troglodytes,705,100,amber
+Knepp,25,50.97433,-0.386824,other neutral grassland ,Wren,Troglodytes_troglodytes,1840,100,amber
+Knepp,26,50.972617,-0.393717,"other woodland, mixed",Wren,Troglodytes_troglodytes,249,100,amber
+Knepp,27,50.971443,-0.392173,modified grassland,Wren,Troglodytes_troglodytes,216,100,amber
+Knepp,28,50.969925,-0.391089,modified grassland,Wren,Troglodytes_troglodytes,524,100,amber
+Knepp,29,50.96984,-0.387641,modified grassland,Wren,Troglodytes_troglodytes,434,100,amber
+Knepp,30,50.970291,-0.378981,lowland mixed deciduous woodland,Wren,Troglodytes_troglodytes,19,83.3,amber
+Knepp,31,50.970467,-0.383928,wet woodland ,Wren,Troglodytes_troglodytes,749,100,amber
+Knepp,32,50.970698,-0.38572,bramble scrub,Wren,Troglodytes_troglodytes,309,100,amber
+Knepp,33,50.971291,-0.388367,bramble scrub,Wren,Troglodytes_troglodytes,1483,100,amber
+Knepp,34,50.962368,-0.379207,lowland mixed deciduous woodland,Wren,Troglodytes_troglodytes,402,100,amber
+Knepp,35,50.968283,-0.375798,wet woodland ,Wren,Troglodytes_troglodytes,502,100,amber
+Knepp,36,50.965162,-0.372673,lowland mixed deciduous woodland,Wren,Troglodytes_troglodytes,267,100,amber
+Knepp,37,50.963235,-0.373844,mixed scrub,Wren,Troglodytes_troglodytes,36,83.3,amber
+Knepp,38,50.967649,-0.384328,other neutral grassland ,Wren,Troglodytes_troglodytes,517,100,amber
+Knepp,19,50.969009,-0.358008,bramble scrub,Yellowhammer,Emberiza_citrinella,11,66.7,red
