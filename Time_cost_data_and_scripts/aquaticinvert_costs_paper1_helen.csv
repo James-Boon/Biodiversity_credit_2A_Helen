@@ -1,0 +1,7 @@
+Site,Survey method,Survey area (ha),Number of samples,Field time per sample (h),Processing time per sample (h),Total time per sample  (h),Total field time (h),Total processing time (h),Total time (h),Time per hectare (h/ha),Consumable cost per sample,Total consumable cost,Total field labour cost,Total field cost,Total processing labour cost,Total survey cost,Total cost per sample,Cost per hectare
+Knepp,Morph,470,26,0.5,4.25,4.75,13,110.5,123.5,0.262765957,3,78,455,455,3867.5,4400.5,169.25,9.362765957
+Knepp,eDNA,470,26,0.5,0.25,0.75,13,6.5,19.5,0.041489362,410,10660,455,455,NA,11115,427.5,23.64893617
+Knepp,Bulk,470,26,0.5,0.25,0.75,13,6.5,19.5,0.041489362,410,10660,455,455,NA,11115,427.5,23.64893617
+Attenborough,Morph,220,48,0.5,4.25,4.75,24,204,228,1.036363636,3,144,840,840,7140,8124,169.25,36.92727273
+Attenborough,eDNA,220,48,0.5,0.25,0.75,24,12,36,0.163636364,410,19680,840,840,NA,20520,427.5,93.27272727
+Attenborough,Bulk,220,48,0.5,0.25,0.75,24,12,36,0.163636364,410,19680,840,840,NA,20520,427.5,93.27272727

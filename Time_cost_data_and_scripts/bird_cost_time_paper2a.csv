@@ -1,0 +1,5 @@
+Site,Method,Survey area,No of surveys conducted,No. of surveys yeilding data,Field time per sample,Processing time per sample,Time per sample,Field time,Processing time,Total time,Time per hectare,Consumable cost per sample,Total consumable cost,Field labour cost,Total field cost,Total processing labour cost,Additional processing cost per sample,Total additional processing cost,Total data processing cost,Total survey cost,Total cost per sample,Cost per hectare
+Knepp,PAM,470,38,37,0.58,0.5,1.08,22.04,18.5,40.54,0.086255319,131.4,4993.2,771.4,5764.6,647.5,64.8,2397.6,3045.1,8809.7,238.1,18.74404255
+Knepp,Point count,470,38,38,0.5,0.15,0.65,19,5.7,24.7,0.052553,0,0,665,665,199.5,NA,NA,199.5,864.5,22.75,1.83936
+Attenborough,PAM,220,44,43,0.58,0.5,1.08,25.52,21.5,47.02,0.213727273,131.4,5781.6,893.2,6674.8,752.5,64.8,2786.4,3538.9,10213.7,237.527907,46.42590909
+Attenborough,Point count,220,40,40,0.5,0.15,0.65,20,6,26,0.11818,0,0,700,700,210,NA,NA,210,910,22.75,4.13636

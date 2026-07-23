@@ -1,0 +1,7 @@
+Site,Survey method,Survey area,No. of sampling points,Field time,Processing time,Total time,Time per hectare,Consumable cost,Travel cost,Total field labour cost,Total labour cost,Total field cost,Data access cost,Data processing cost,Total survey cost,Cost per hectare
+Knepp,DEFRA metric,470,1,480,164,644,1.370212766,NA,2495,8640,11585,11135,NA,2945,14080,29.95744681
+Knepp,UAV,470,1,90,128,218,0.463829787,3070,780,3150,7630,7000,NA,4480,11480,24.42553191
+Knepp,Satellite ,470,1,NA,60,60,0.127659574,NA,NA,NA,NA,NA,3852,2100,5952,12.66382979
+Attenborough,DEFRA metric,220,1,65,57,122,0.554545455,NA,298,2000,3752,2298,NA,1752,4050,18.40909091
+Attenborough,UAV,220,1,45,120,165,0.75,2425,120,1575,5775,4120,NA,4200,8320,37.81818182
+Attenborough,Satellite ,220,1,NA,60,60,0.272727273,NA,NA,NA,NA,NA,3852,2100,5952,27.05454545
